@@ -1,0 +1,5 @@
+images_with_drawn_boxes/
+received_images/
+images/
+.ipynb_checkpoints/
+predicted_images/
